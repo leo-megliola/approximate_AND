@@ -1,1 +1,0 @@
-# approximate_AND
